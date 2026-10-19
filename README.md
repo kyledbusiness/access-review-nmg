@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-Northstar Medical Group has 47 fictional users across Finance, HR, IT, and Operations. As the organization grew, user access accumulated across departments, applications, and administrative groups. But who was checking whether that access still made sense?
+Northstar Medical Group has 48 fictional users across Finance, HR, IT, and Operations. As the organization grew, user access accumulated across departments, applications, and administrative groups. But who was checking whether that access still made sense?
 
 - Employees may retain permissions from previous responsibilities.
 - Former contractors may still have active accounts.
