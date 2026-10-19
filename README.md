@@ -20,7 +20,7 @@ I built a simulated IAM access review to evaluate user permissions against job r
 - I organized the results into a summary to make findings and recommended follow-up easier to understand.
 
 ## Video Walkthrough
-- Link
+- https://www.loom.com/share/21c5ea6b89b1468d8adcf8ae33475a25
 
 ## Walkthrough
 
